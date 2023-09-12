@@ -1,1 +1,1 @@
-# <h1>I have made a commit requqest</h1>
+# <h1>I have made a commit request</h1>
