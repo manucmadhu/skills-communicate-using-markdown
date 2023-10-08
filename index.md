@@ -5,4 +5,4 @@
 # <h5>This is H5 heading</h5>
 # <h6>This is H6 heading</h6>
 i have made a branch and pull request 
-had merged the request later and at the end I am upadting this in the index.md file
+had merged the request later and at the end I am upadting this in the index.md file and i have committed the changes
